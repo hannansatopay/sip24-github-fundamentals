@@ -1,6 +1,9 @@
 ## Name
 <H1>Manoj Ramashish Gupta</h1>
 
+## Photo
+![Manoj Ramashish Gupta](https://postimg.cc/y3CyV8Mn)
+
 
 ## Introduction
 
