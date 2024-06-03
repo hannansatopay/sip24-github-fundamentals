@@ -2,7 +2,7 @@
 Onkar Mendhapurkar
 
 ## Photo
-<img src="https://avatars.githubusercontent.com/u/61963755?v=4" alt="Onkar Mendhapurkar" width="50%" height="30%">
+<img src="https://avatars.githubusercontent.com/u/61963755?v=4" alt="Onkar Mendhapurkar" width="20%" height="30%">
 
 ## Introduction
 👋 Hi, I'm a third year computer science undergrad at Symbiosis Institute of Technology Pune with an insatiable curiosity for all things tech. Whether I'm knee-deep in lines of code or elbow-deep in circuitry, I'm in my element.
