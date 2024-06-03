@@ -2,7 +2,7 @@
 Mohit Agarwal
 
 ## Photo
-![Mohit Agarwal](https://drive.google.com/file/d/1KpHyR_7rJDgCyMcC-8SC4F0JifkcFlCG/view?usp=sharing)
+![Mohit Agarwal](introductions/Profilepic.png)
 
 ## Introduction
 Hello Meta CraftLab Mentors and fellow interns
