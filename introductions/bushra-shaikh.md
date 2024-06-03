@@ -6,7 +6,7 @@ Bushra Suhail Ahmed Shaikh
 
 ## Introduction
 Hello, this is Bushra. Currently pursuing an under-grad degree of CSE(AI & ML) from M.H. Saboo Siddik College of Engineering🚀[University of Mumbai]. I am in 7th Sem with an aggregate CGPA of 9.36/10 [CGPA aggregate uptil Sem 5] depicting a strong hold over academics. Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Designing🎨. Novice in Web Development and Python Programming. Enthusiastic learner, seeking opportunities to enhance skill and contribute to innovative solutions. I believe in continuous learning & development and I am fond of cats🐱, coffee☕ and video games😉.
- 
+  
 
 ## Social Media
 - [GitHub](https://github.com/bushra-07)
