@@ -9,5 +9,5 @@ I am Atharva Awatade, a Computer Science & Engineering student at Vellore Instit
 
 
 ## Social Media
-- [GitHub](https://github.com/atharvawatade)
-- [LinkedIn](https://linkedin.com/in/atharvawatade)
+- [GitHub](https://github.com/atharvaawatade)
+- [LinkedIn](https://linkedin.com/in/atharvaawatade)
