@@ -2,7 +2,7 @@
 Sambhav Bhansali
 
 ## Photo
-![Saambhav Bhansali](https://link-to-your-photo.jpg)
+![Saambhav Bhansali](https://ibb.co/pxhN7NH)
 
 ## Introduction
 My name is Sambhav Bhansali, I'm a 3rd year ENTC student at Symbiosis Institute of Technology, Pune.
