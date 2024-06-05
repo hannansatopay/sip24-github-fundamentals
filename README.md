@@ -14,14 +14,14 @@ We are excited to welcome you to the GitHub Fundamentals course, part of the Sum
 
 ```markdown
 ## Name
-Add your name here.
+Sahil Mane
 
 ## Photo
-![Your Name](https://link-to-your-photo.jpg)
+![Sahil Mane](https://i.postimg.cc/0Q4DtJF5/founder.jpg)
 
 ## Introduction
-A brief introduction about yourself.
+I am a student, currently pursuing Bachelors Degree of Engineering in Information Technology. I want to be the best full stack developer versatile in all other branches.
 
 ## Social Media
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub](https://github.com/sahilmaneweb)
+- [LinkedIn](https://linkedin.com/in/sahilmane)
