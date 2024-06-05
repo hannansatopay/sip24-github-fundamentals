@@ -7,7 +7,7 @@ data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8OD
 )
 
 ## Introduction
-hi, I am Nikhil shukla, hail from kanpur Uttar Pradesh. A passionate software developer and building thing for mankind. I am very diligent and loves to take challenges.
+hi, I am Nikhil shukla,hail from kanpur Uttar Pradesh. A passionate software developer and building thing for mankind. I am diligent and loves to take challenges.
 
 ## Social Media
 - [GitHub](https://github.com/Nikhil-shukla1)
