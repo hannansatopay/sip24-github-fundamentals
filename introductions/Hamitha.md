@@ -11,4 +11,4 @@ I am looking forward to a great learing experience as a full-stack-developer.
 
 ## Social Media
 - [GitHub](https://github.com/MarellaHasmitha)
-- [LinkedIn](https://www.linkedin.com/in/hasmitha-marella-a06650254?trk=contact-info )
+- [LinkedIn](https://linkedin.com/in/HasmithaMarella )
