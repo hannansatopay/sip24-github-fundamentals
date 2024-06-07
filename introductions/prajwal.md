@@ -9,4 +9,4 @@ Prajwal is a student. Pursuing his bachelor’s degree in Computer Engineering. 
 
 ## Social Media
 - [GitHub](https://github.com/Prajwal-hecker)
-- [LinkedIn](https://www.linkedin.com/in/prajwalshevante)
+- [LinkedIn](https://www.linkedin.com/in/prajwalshevante/)
