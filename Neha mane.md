@@ -14,14 +14,11 @@ We are excited to welcome you to the GitHub Fundamentals course, part of the Sum
 
 ```markdown
 ## Name
-Add your name here.
-
-## Photo
-![Your Name](https://link-to-your-photo.jpg)
+Neha Prakash Mane 
 
 ## Introduction
-A brief introduction about yourself.
+My self Neha Mane. I am from KIT college of engineering Kolhapur Pursuing in Electronics and Telecommunication department. I am very happy to say that I am the part of this c internship. Thank you sir!!
 
-## Social Media
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+## Social media
+LinkedIn Account:
+https://www.linkedin.com/in/neha-mane-a404312b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
