@@ -8,5 +8,5 @@ in fornt-end Developer intern role while further enhancing the excellent
 reputation of company.
 
 Social Media:
-[Github] : https://github.com/NawabZadi/
-[LinkedIn] : www.linkedin.com/in/amina-fayyaz-81a513218
+[Github] : (https://github.com/NawabZadi/)
+[LinkedIn] : (www.linkedin.com/in/amina-fayyaz-81a513218)
