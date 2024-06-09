@@ -1,4 +1,11 @@
-Hello, I'm Manish Kumar. 
-My friend is very interested in joining the internship program but has encountered some difficulties with filling out the application form. He also participated in your last internship and greatly benefited from the experience.
+## Name
+Manish Kumar
+## Photo
+![Your Name]()
+## Introduction
+Hello, I am Manish Kumar. With hands-on experience in HTML, CSS, JavaScript, React, Node.js, Java, Spring Boot, C/C++, and Python, I am passionate about solving real-world problems. My journey as a developer and competitive programmer has honed my problem-solving skills through extensive practice. I have solved over 1500 problems and achieved notable rankings: a 4-star rating on CodeChef, Specialist rank on Codeforces, and Knight rank on LeetCode.
 
-Could you please assist him with the application process or provide an alternative way for him to apply?
+I am very excited about the opportunity to leverage my expertise during this internship and contribute to impactful projects.
+## Social Media
+- [GitHub](https://github.com/Manish-Kumarrrr)
+- [LinkedIn](https://www.linkedin.com/in/manish-kumarrrrr)
