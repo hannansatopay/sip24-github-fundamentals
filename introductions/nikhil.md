@@ -15,4 +15,4 @@ Ready for an interview anytime.
 
 ## Social Media
 - [GitHub](https://github.com/nikhilsarve)
-- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/nikhil-sarve-743505229/))
+- [LinkedIn](https://www.linkedin.com/in/nikhil-sarve-743505229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
