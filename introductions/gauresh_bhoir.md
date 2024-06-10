@@ -7,6 +7,6 @@ Gauresh Bhoir
 ## Introduction
 Hello! I am Gauresh, a 20 yo who loves working out, coding and finances
 
-## Social Media
+## Social media
 - [GitHub](https://github.com/Slugget98)
 - [LinkedIn](https://www.linkedin.com/in/gauresh-bhoir-a97575286/)
