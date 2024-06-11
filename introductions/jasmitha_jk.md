@@ -2,7 +2,7 @@
 Jasmitha JK
 
 ## Photo
-![Jasmitha JK]("C:\Users\saura\Downloads\Saurabh_photo.jpg")
+![Jasmitha JK](""C:\Users\Jasmitha\Downloads\image.jpeg")
 
 ## Introduction
 Hello there. I am interested in learning new things.
