@@ -5,7 +5,7 @@ mail: its.nikhil2808@gmail.com
 ## Introduction
 Hello I m Nikhil Singh pursuing Btech in Instrumnetation & Control Engineering from NIT Jalandhar.
 My interst are working with backend in python,Django .I love robotics and automation.
-Also I am doing an summer internship in Meta Craft Lab.
+Also I am doing an summer internship in Meta Craft Lab .
 
 ## Social Media
 - [GitHub](https://github.com/nikkhil28-29)
