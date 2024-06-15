@@ -1,12 +1,12 @@
 ## Name
-Ketaki Vatturkar
+Ansh Kumar
 
 ## Photo
-![Your Name](https://link-to-your-photo.jpg)
+![Ansh Kumar](https://drive.google.com/file/d/1gp_rpNqKycy8eEKDlMdAsi9hOOGGDuCN/view?usp=sharing)
 
 ## Introduction
-I am ketaki vatturkar and I am interestested in design and web development and artificial intellegence 
+I am Ansh Kumar Gupta and I am interestested in web development.
 
 ## Social Media
-- [GitHub](https://github.com/ketakivatturkar)
-- [LinkedIn](https://linkedin.com/in/ketakivatturkar)
+- [GitHub](https://github.com/CodeAnshg)
+- [LinkedIn](https://www.linkedin.com/in/ansh-gupta1/)
