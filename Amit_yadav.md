@@ -12,7 +12,7 @@ Hello,
 
 I am Amit Yadav, a Bachelor of Technology (B.Tech) student in Computer Science and Engineering at the National Institute of Technology (NIT) Jalandhar. I have a strong passion for competitive programming and web development. My interests lie in solving complex algorithmic problems and creating dynamic, user-friendly web applications.
 
-Through my academic journey and personal projects, I have honed my skills in various programming languages and frameworks. I am eager to apply my knowledge in real-world scenarios and contribute to innovative technological solutions.
+Through my academic journey and personal projects, I have honed my skills in various programming languages and frameworks. I am eager to apply my knowledge in real-world scenarios and contribute to innovative technological solutions....
 
 ## Social Media
 - [GitHub](https://github.com/amit-yadav207)
