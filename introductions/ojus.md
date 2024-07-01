@@ -2,7 +2,7 @@
 Ojus Kumar
 
 ## Photo
-![Ojus](https://i.postimg.cc/9Ffpxj3h/pit2.jpg)
+![Ojus],(https://i.postimg.cc/9Ffpxj3h/pit2.jpg)
 
 ## Introduction
 Hello World! I'm Ojus, a CS undergrad. I enjoy coding competitively and passionate for React.js and Go Development.
